@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    background-color: #86A3B8;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    color: #3E54AC;
+    font-family: 'Edu TAS Beginner', cursive;
+    margin: 0 auto 0 auto;
+    width: 30%;
+    text-shadow: black 5px;
+}
+
+h2 {
+    color: #3E54AC;
+    font-family: 'Edu TAS Beginner', cursive;
+    margin: 0 auto 0 auto;
+    width: 30%;
+    text-shadow: black 5px;
+}
+
+h3 {
+    color: #3E54AC;
+    font-family: 'Edu TAS Beginner', cursive;
+    margin: 0 auto 0 auto;
+    width: 30%;
+    text-shadow: black 5px;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.top {
+    background-color: #ECF2FF;
+    /*position: absolute;*/
+    /*margin-bottom: 600px;*/
+    padding-top: 100px;
+}
+
+.cloudAlign1 {
+    height: 100px;
+    position: relative;
+}
+.cloud1 {
+    height: 90%;
+    width: 10%;
+    position: absolute;
+    right: 30%;
+}
+
+.cloudAlign2 {
+    height: 100px;
+    position: relative;
+}
+.cloud2 {
+    height: 90%;
+    width: 10%;
+    position: absolute;
+    left: 30%;
+}
+
+.topImage {
+    position: relative;
+}
+
+.imageSysAnalyst {
+    height: 30%;
+    width: 30%;
+}
+
+.middle {
+    background-color: #93C6E7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.helloDesc {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+.parDes {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+.imgSysAnalysis {
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+    padding-top: 10px;
+}
+.listSA {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+.imgSysSupport {
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+    padding-top: 10px
+}
+.imgProjManage{
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+    padding-top: 10px
+}
+.imgProgram {
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+    padding-top: 10px
+}
+.imgEmail {
+    height: 5%;
+    width: 5%;    
+}
+.imgPhone {
+    height: 5%;
+    width: 5%;     
+}
+
+.bottom {
+    background-color: #ECF2FF;
+    padding-top: 50px;
+}
+.imgLinkedIn {
+    height: 5%;
+    width: 5%;
+}
+.imgGithub {
+    height: 5%;
+    width: 5%;
+}
